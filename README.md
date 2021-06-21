@@ -1,3 +1,3 @@
 # NLW LetMeAsk
 
-[Next Level Week - Together](nextlevelweek.com) React.js app
+[Next Level Week - Together](https://nextlevelweek.com) React.js app
